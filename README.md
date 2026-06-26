@@ -27,7 +27,7 @@ Alongside my professional experience, I'm building modern backend projects to tr
 
 ### Languages
 - Python
-- Genero 4GL
+- 4GL
 - SQL
 
 ### Backend
@@ -43,6 +43,7 @@ Alongside my professional experience, I'm building modern backend projects to tr
 - GitHub
 - Linux
 - VS Code
+- Genero Studio
 
 ---
 
@@ -85,8 +86,8 @@ My goal is to transition from enterprise application development to modern backe
 
 ## 📫 Contact
 
-- LinkedIn: *(add your profile)*
-- Email: *(add your professional email)*
+- LinkedIn: *https://www.linkedin.com/in/*
+- Email: *fabio.ciamberlano@gmail.com*
 
 ---
 
