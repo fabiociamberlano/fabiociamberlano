@@ -86,7 +86,7 @@ My goal is to transition from enterprise application development to modern backe
 
 ## 📫 Contact
 
-- LinkedIn: *https://www.linkedin.com/in/*
+- LinkedIn: *https://www.linkedin.com/in/fabiociamberlano/*
 - Email: *fabio.ciamberlano@gmail.com*
 
 ---
